@@ -1,5 +1,5 @@
 # List of 3D game libraries
-A list of 3D "game" libraries and engines made for the vulkan game engine. Found some not mentioned here? Feel free to create a pull request!
+A list of 3D "game" libraries and engines made with the Vulkan graphics API. Found some not mentioned here? Feel free to create a pull request!
 Note the list is made without any specified order in mind.
 
 ## The list:
