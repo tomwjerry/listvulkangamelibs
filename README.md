@@ -4,7 +4,7 @@ Note the list is made without any specified order in mind.
 
 ## The list:
 * Acid - https://github.com/EQMG/Acid
-* * Diligent Engine - https://github.com/DiligentGraphics/DiligentEngine
+* Diligent Engine - https://github.com/DiligentGraphics/DiligentEngine
   * and DiligentFX https://github.com/DiligentGraphics/DiligentFX
 * Google(?) Filament - https://github.com/google/filament
 * The Forge - https://github.com/ConfettiFX/The-Forge
