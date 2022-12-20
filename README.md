@@ -1,2 +1,2 @@
-# listvulkangamelibs
-A list of 3D "game" libraries made for the vulkan game engine
+# List of 3D game libraries
+A list of 3D "game" libraries and engines made for the vulkan game engine
