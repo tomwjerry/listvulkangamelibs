@@ -4,7 +4,6 @@ Note the list is made without any specified order in mind.
 
 ## The list:
 * The Forge - https://github.com/ConfettiFX/The-Forge
-* Acid - https://github.com/EQMG/Acid
 * bgfx - https://github.com/bkaradzic/bgfx
 * Diligent Engine - https://github.com/DiligentGraphics/DiligentEngine
   * and DiligentFX https://github.com/DiligentGraphics/DiligentFX
@@ -17,3 +16,4 @@ It is futher development on the OpenSceneGraph
 
 ## Others
 * Wicked Engine - https://github.com/turanszkij/WickedEngine More like a game engine, rendering difficult to seperate
+* Acid - https://github.com/EQMG/Acid Another game engine
