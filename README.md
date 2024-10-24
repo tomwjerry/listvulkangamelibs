@@ -2,7 +2,7 @@
 A list of 3D "game" libraries and engines made with the Vulkan graphics API. Found some not mentioned here? Feel free to create a pull request!
 Note the list is made without any specified order in mind.
 
-## The list:
+## The list
 * The Forge - https://github.com/ConfettiFX/The-Forge
 * bgfx - https://github.com/bkaradzic/bgfx
 * Diligent Engine - https://github.com/DiligentGraphics/DiligentEngine
